@@ -1,4 +1,4 @@
 # DNA-Sequence-Alignment
 
-_The code have comments to understand every step_
+_The code has comments to understand every step_
 
